@@ -1,0 +1,12 @@
+- suppose perfect move requires 100ms
+- suppose move requires PressDuration of at least 30ms to register
+- the remaining 70ms will be allocated to Delay
+
+- if we used less than 100ms then: (moves are shortened)
+	- if it does register new moves while moving: some moves would work, but eventually one would get skipped since
+												  the moves are taking place faster and the game can't move faster
+	- if it doesn't register new moves while moving: again moves would get skipped, just sooner in the process
+	
+- if we used more than 100ms then: (moves may be lengthened)
+	- if 100ms or more was put into PressDuration, moves would occasionally move twice
+	- if Delay was increased but PressDuration was not, there would just be pauses between moves

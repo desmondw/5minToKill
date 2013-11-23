@@ -1,0 +1,63 @@
+MAIN ...90%
+---> Flame = 18%  (13 sec)
+Trophy = 18%
+---> Staple = 5% x4 ...20%
+Pinata = 5% x3 ...15%
+Shredder = 4% x3 ...12%
+Scissors = 4%
+Supplier = 3% xINF
+
+COPY ROOM ...40%
+---> Copier = 8% x4 ...32%
+---> Cutter = 8%
+
+ELEVATOR UP ...49% (45% practical) (~22 sec)
+---> Shark = 20%
+---> Ferret = 5% x5 ...25%
+Scissors = 4%
+
+ELEVATOR DOWN ...74%
+Umbrella = 18%
+Comp Pee = 4% x14 ...56%
+gygaxed = 15% xINFD
+
+BATHROOM ...45%
+Dryer = 15%
+clown = 10%
+mop = 5%
+Urinal = 3% x5 ...15%
+
+///////////////////////
+
+Flame = 18%
+Staple = 5% =23
+Ferret = 5% x5 ...25% =48
+Shark = 20% =68
+Cutter = 8% =76
+Copier = 8% x3 ...24% =100
+
+Flame = 18%
+Shredder = 4% =22
+Staple = 5% x2 ...10% =32
+Trophy = 18% =50
+Staple = 5% =55
+Ferret = 5% x5 ...25% =80
+Shark = 20% =100
+
+Flame = 18%
+Ferret = 5% x5 ...25% =43
+Shark = 20% =63
+Staple = 5% =68
+Staple = 5% =73
+Trophy = 18% =91
+Staple = 5% x2 ...10% =101
+
+///////////////////////
+
+concentrated kill zone:
+start (30%)
+up elevator (45%)
+copy room (40%)
+pinata (15%)
+cafeteria (37%)
+~bathroom (45%)

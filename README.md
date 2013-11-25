@@ -1,5 +1,6 @@
-5 Minutes to Kill Yourself
+5 Minutes to Kill (Yourself)
 =============
+Last edit before repo: 8/4/2008
 
 AdultSwim used to promote their web games platform by displaying the top 10 for the leaderboard for the most recent games on TV. One such game was 5 Minutes to Kill Yourself. I researched (read: played) the game a lot before I realized in order to get to the top of the leaderboards I'd need a script. This is that script.
 

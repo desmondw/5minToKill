@@ -7,4 +7,4 @@ AdultSwim used to promote their web games platform by displaying the top 10 for 
 Screenshots
 =============
 Proof that the script worked. You can see here that I got 7th place for that week, dispite the rampant traffic manipulation that is endemic to flash games with leaderboards.
-![alt tag](/screenshots/5 min top score.jpg)
+![alt text](./screenshots/5%20min%20top%20score.jpg)
